@@ -1,0 +1,9 @@
+# Ignore everything
+*
+# Allow this gitignore file itself
+!.gitignore
+# Allow all directories (so Git can see inside them)
+!*/
+
+!*.py
+!*.png
